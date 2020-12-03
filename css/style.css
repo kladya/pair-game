@@ -90,7 +90,7 @@ p {
 }
 
 .card__face--back {
-    background-image: url(../img/bg-img.jpg);
+    background-image: url('bg-img.jpg');
     background-size: cover;
 }
 
@@ -108,23 +108,23 @@ p {
 }
 
 .card__face--front-1 {    
-    background-image: url('../img/mug1.png');
+    background-image: url('mug1.png');
 }
 
 .card__face--front-2 {    
-    background-image: url('../img/mug2.png');
+    background-image: url('mug2.png');
 }
 
 .card__face--front-3 {    
-    background-image: url('../img/mug3.png');
+    background-image: url('mug3.png');
 }
 
 .card__face--front-4 {    
-    background-image: url('../img/mug4.png');
+    background-image: url('mug4.png');
 }
 
 .card__face--front-5 {    
-    background-image: url('../img/mug5.png');
+    background-image: url('mug5.png');
 }
 
 @media screen and (max-width: 425px) {
